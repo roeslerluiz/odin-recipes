@@ -16,8 +16,6 @@ body{
 #main-title{
     font-size: 100px;
     height: 120px;
-    -webkit-text-stroke: 1px;
-    -webkit-text-stroke-color: red;
 }
 
 .p1{
