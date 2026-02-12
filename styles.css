@@ -1,0 +1,110 @@
+body{
+    background-color: black;
+    color: rgb(231, 231, 230);
+    font-style: italic;
+}
+
+
+.img{
+   max-width: 50%;
+   height: auto;
+   display:block;
+   margin: 0 auto;
+
+}
+
+#main-title{
+    font-size: 100px;
+    height: 120px;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: red;
+}
+
+.p1{
+    font-weight: bolder;
+    color: black;
+    display: block;
+    width: fit-content;
+    margin: 100px auto;
+    padding: 8px 12px;
+    border: 15px solid rgb(80, 0, 0);
+    border-radius: 5px;
+    background-color: yellow
+}
+
+p{
+    color: white;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+    margin: 50px;
+    margin-bottom: 100px;
+}
+
+h1{
+    margin-bottom: 100px;
+    text-align: center;
+    font-family: Garamond, serif;
+    font-size: 60px;
+    color: yellow;
+    padding: 5px;
+    background-color: rgba(19, 18, 18, 0.979);
+}
+
+h2{
+    font-style: normal;
+    font-family: sans-serif, serif;
+    font-size: 60px;
+    text-align: center;
+    color: red;
+}
+
+h4{
+    font-style: normal;
+    font-family: sans-serif, serif;
+    font-size: 60px;
+    text-align: center;
+    color: orange;
+}
+
+ol{
+    font-size: 40px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+ul{
+    list-style-type:none;
+    width: max-content;
+    margin:0 auto; 
+    font-size: 40px;
+}
+
+.sauce-crust{
+    list-style-type:upper-roman;
+}
+
+a{
+    color: yellow;
+}
+
+li{
+    color: yellow;
+    margin-left: 50px;
+    
+}
+
+.image{
+    border: 2px solid yellow;
+    margin-bottom: 50px;
+}
+
+.anchor{
+    color: orange;
+}
+
+.rickrolled{
+
+    margin: 50px;
+    text-align: center;
+    font-size: 50px;
+}
